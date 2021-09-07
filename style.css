@@ -1,0 +1,35 @@
+
+
+/*===>>> header <<<===*/
+.l_color{
+    color: blue;
+}
+.b_color{
+    background-color: white;
+    height: 80px;
+}
+.black{
+    color: black;
+}
+.lavel_item{
+    position: relative;
+}
+.lavel {
+	color: white;
+	position: absolute;
+	left: 36%;
+	top: -43%;
+	width: 550px;
+    text-align: center;
+}
+
+
+/*===>>> about section <<<===*/
+.about figure h3{
+    text-transform: capitalize;
+}
+
+/*===>>> table & form section <<<===*/
+.color{
+    color: rgb(4, 94, 56);
+}
